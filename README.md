@@ -1,5 +1,4 @@
-# about-me-
-
+# Sobre-mim
 Olá, eu me chamo Wesia Kaliany.
 
 - Estudante do 7º período de Engenharia de Software na Faculdade SENAI FATESG. Tenho uma base sólida em Programação Orientada a Objetos (POO) e Padrões de Projeto, e atualmente estou focada em expandir minhas habilidades em Gestão de Banco de Dados e Cibersegurança.
