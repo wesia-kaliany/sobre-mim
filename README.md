@@ -10,7 +10,7 @@ Olá, eu me chamo Wesia Kaliany.
 - Linguagens & Ferramentas: Java, SQL, Linux (Linux Mint), Git/GitHub
 
 # Ambiente & Ferramentas
-- Sistema Operacional: Linux Mint
+- Sistema Operacional: Linux Mint/Windows
 - SGBD: PostgreSQL
 - Ferramentas de Desenvolvimento: Terminal (Bash), Git, Intellj
 
