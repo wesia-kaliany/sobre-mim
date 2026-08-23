@@ -12,6 +12,7 @@ Olá, eu me chamo Wesia Kaliany.
 # Ambiente & Ferramentas
 - Sistema Operacional: Linux Mint/Windows
 - SGBD: PostgreSQL
+- IDE - NetBeans
 - Ferramentas de Desenvolvimento: Terminal (Bash), Git, Intellj
 
 # Conecte-se Comigo
