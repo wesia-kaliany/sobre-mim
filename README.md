@@ -1,20 +1,21 @@
-# Sobre-mim
-Olá, eu me chamo Wesia Kaliany.
+# Sobre mim
+Olá, eu me chamo Wésia Kaliany.
 
-- Estudante do 7º período de Engenharia de Software na Faculdade SENAI FATESG. Tenho uma base sólida em Programação Orientada a Objetos (POO) e Padrões de Projeto, e atualmente estou focada em expandir minhas habilidades em Gestão de Banco de Dados e Cibersegurança.
+- Estudante do 7º período de Engenharia de Software na Faculdade SENAI FATESG. Tenho uma base sólida em Java, Python, Banco de Dados, e atualmente estou focada em expandir minhas habilidades em Python e em cibersegurança.
 
 # Principais Competências & Foco Atual
-- Programação Orientada a Objetos (POO), Padrões de Projeto, Fundamentos de Arquitetura de Software
-- Banco de Dados (Foco Atual): PostgreSQL, Modelagem de Dados, Consultas SQL, Fundamentos de Administração de BD
-- Cibersegurança (Foco Atual): Fundamentos de Segurança Web, Linux Hardening, Segurança de Redes
-- Linguagens & Ferramentas: Java, SQL, Linux (Linux Mint), Git/GitHub
+- Programação Orientada a Objetos (POO) e lógica de programação
+- Python (Foco Atual): prática contínua de lógica de programação, sintaxe e fundamentos de código
+- Banco de Dados: PostgreSQL, Consultas SQL
+- Cibersegurança (Foco Atual): fundamentos de segurança da informação
+- Linguagens & Ferramentas: Python, Java, SQL, Git/GitHub
 
 # Ambiente & Ferramentas
-- Sistema Operacional: Linux Mint/Windows
+- Sistema Operacional: Linux Mint, Windows
 - SGBD: PostgreSQL
-- IDE - NetBeans
-- Ferramentas de Desenvolvimento: Terminal (Bash), Git, Intellj
+- IDEs: VS Code, NetBeans
+- Ferramentas de Desenvolvimento: Git, GitHub, DBeaver
 
 # Conecte-se Comigo
-- LinkedIn: www.linkedin.com/in/wésia-kaliany-lima-peixoto-ab5785381
+- LinkedIn: https://www.linkedin.com/in/wesia-kaliany-lima-peixoto
 - E-mail: wesiakalianyl@gmail.com
